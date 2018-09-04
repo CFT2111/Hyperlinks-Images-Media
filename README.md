@@ -2,7 +2,7 @@
 1. 
     * Download [united-kingdom.txt](united-kingdom.txt). This file contains some information about the four countries that make up the UK. 
     * Using this content, create a **separate** web page for each country. 
-        - Use the html template (look back to week 1) as your starting point and then copy in content from the *united-kingdom.txt* file.
+        - Use the html template (https://github.com/CFT2111/Intro-to-HTML/blob/master/template.html) as your starting point and then copy in content from the *united-kingdom.txt* file.
         - Mark-up the content e.g. make the name of the country a *h1* element, add a title, create a list for the capital, population and area facts. 
         - Validate each of the web pages using the w3c validator, http://validator.w3.org/ and fix any errors.
 
@@ -11,7 +11,7 @@
 
 3. 
     * Insert an image of the country’s flag into each page. 
-        * Have a look the web to find images which are licensed for re-use(Wikipedia is often a good starting point). 
+        * Have a look the web to find images which are licensed for re-use (Wikipedia is often a good starting point). 
         * Make sure you also add appropriate attributions. 
 
 4. 
