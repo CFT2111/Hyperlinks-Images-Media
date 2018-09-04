@@ -21,8 +21,6 @@
 
 5.
     * Experiment with hyperlink and image related CSS properties e.g
-        * Pseudo-classes
-        * Floating images
-        * Backgrounds in CSS
-        * Box-shadows
-        * Gradients
+        * Pseudo-classes for hyperlinks
+        * Styling images using CSS
+        * Background images in CSS
