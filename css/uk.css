@@ -1,5 +1,17 @@
 body{
-  color:rgb(20,20,20);
+  color:#1b1b1b;
   font-family:Arial, Helvetica, sans-serif;
-  background-color:rgb(130,165,203);
+  background-color:#f5f5f5;
+}
+.flag{
+  float:left;
+  border:1px solid #1b1b1b;
+  margin-right:20px;
+}
+a{
+  color:#ff4220;
+}
+a:hover{
+  color:#f5f5f5;
+  background-color:#ff4220;
 }
