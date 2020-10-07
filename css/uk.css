@@ -1,3 +1,4 @@
+/*Basic styles*/
 body{
   color:#1b1b1b;
   font-family:Arial, Helvetica, sans-serif;
@@ -12,6 +13,61 @@ a{
   color:#ff4220;
 }
 a:hover{
+  color:#f5f5f5;
+  background-color:#ff4220;
+}
+
+/*styling for the table */
+table{
+	text-align:center;
+	border-collapse:collapse;
+	width:50%;
+}
+
+caption{
+	font-size:16pt;
+	text-align:center;
+	padding:15px;
+}
+td, th{
+	padding:15px;
+  border-bottom:1px solid #1b1b1b;
+}
+td{
+  border-bottom:1px solid #1b1b1b;
+}
+th{
+	color:#ff4220;
+}
+.highest{
+  color:blue;
+}
+
+/* styling for the form*/
+
+.form-control{
+  margin:20px;
+}
+label{
+  padding:5px;
+}
+input[type="text"], input[type="email"]{
+  padding:5px;
+  border: 1px solid #1b1b1b;
+}
+input[type="text"]:focus, input[type="email"]:focus{
+  outline:1px solid #ff4220;
+}
+input[type="radio"],input[type="checkbox"]{
+  margin-left:20px;
+}
+button {
+	padding: 7px 12px;
+	border: 1px solid #1b1b1b;
+	border-radius:2px;
+	font-size: 14px;
+	font-family:Helvetica, arial;
+	line-height:36px;
   color:#f5f5f5;
   background-color:#ff4220;
 }
