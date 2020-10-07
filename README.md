@@ -37,7 +37,7 @@
  |  Wales |  Cardiff |  3,063,456 |    
 
 * Validate the page.
-* Add some CSS to this file so that the table cells and table header are coloured.
+* Add some CSS so that the table cells and table header are coloured.
 * England has the highest population. Using CSS can you find a way of colouring the England row in a different colour to the other rows of the table (hint: think about using the class selector)?
 
 ## Forms
@@ -48,5 +48,4 @@
     * Make sure you validate the page.
 * Add some CSS to style the form elements. Here is some advice:
     * You may need to put each pair of label and input elements inside *div* tags.
-    * You may need to change the *display* property for the form controls to move them onto separate lines.
     * You may need to use the attribute selector in CSS to style specific types of form element e.g. radio buttons?
